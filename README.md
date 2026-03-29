@@ -1,7 +1,7 @@
 # Diyorbek Sultanov
 
 **Curious developer | Python & Coding enthusiast | High School Student.**  
-I build small tools and bots that solve real problems at school and learn by shipping projects. Currently focused on learning new skills and languages.
+I like to build small tools and bots that solve real problems at school and learn by shipping projects. Currently focused on learning new skills and languages.
 
 ---
 
@@ -19,10 +19,10 @@ I build small tools and bots that solve real problems at school and learn by shi
 **Frameworks:** React; Django  
 **Tools:** Git; VSCode
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)]
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
