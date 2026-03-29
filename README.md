@@ -9,7 +9,7 @@ Curious developer | Python & Coding enthusiast | High School Student
 - Email: diyorbeksultanov.ss@gmail.com
 - LinkedIn - [linkedin.com/in/diyorbek-sultanov](https://linkedin.com/in/diyorbek-sultanov)
 - Discord - [https://discord.gg/PBmGmxBS](https://discord.gg/PBmGmxBS)
-- Linktree - [linktr.ee/mr.sultanov](linktr.ee/mr.sultanov)
+- Linktree - [linktr.ee/mr.sultanov](https://linktr.ee/mr.sultanov)
 
 ---
 
