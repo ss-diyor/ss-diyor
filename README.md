@@ -1,7 +1,7 @@
 # Diyorbek Sultanov
 
 **Curious developer | Python & Coding enthusiast | High School Student.**  
-I build small tools and bots that solve real problems at school and learn by shipping projects. Currently focused on applying Python to AI and machine learning projects.
+I build small tools and bots that solve real problems at school and learn by shipping projects. Currently focused on learning new skills and languages.
 
 ---
 
