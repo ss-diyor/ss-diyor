@@ -1,16 +1,29 @@
-## Hi there 👋
+# Diyorbek Sultanov
 
-<!--
-**ss-diyor/ss-diyor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious developer | Python & Coding enthusiast | High School Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Telegram: [@diyorsultanov](https://t.me/diyorsultanov)
+- Email: diyorbeksultanov.ss@gmail.com
+- LinkedIn: [linkedin.com/in/diyorbek-sultanov](https://linkedin.com/in/diyorbek-sultanov)
+
+---
+
+## 💻 Skills
+Languages: Python, JavaScript, HTML/CSS  
+Frameworks: React, Django  
+Tools: Git, Docker, VSCode
+
+---
+
+## 📂 Projects
+- Bustanlik SS Dashboard - School dashboard site built with Figma  
+- SS Anonymous - Anonymous Telegram bot for school
+- Demo SS - Instant message to channel forwarding
+
+---
+
+## 🌱 Currently Learning
+AI and Machine Learning
