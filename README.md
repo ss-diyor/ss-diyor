@@ -15,7 +15,7 @@ I like to build small tools and bots that solve real problems at school and lear
 ---
 
 ## 💻 Skills
-**Languages:** Python; JavaScript; HTML/CSS  
+**Languages:** Python; JavaScript; Typescript; HTML/CSS  
 **Frameworks:** React; Django  
 **Tools:** Git; VSCode
 
@@ -49,6 +49,5 @@ Exploring TensorFlow, basic neural nets, and small practical projects (classific
 - **Fun fact**: I think I am boring
 
 ---
-
 ## License
 This README is free to reuse and adapt.
