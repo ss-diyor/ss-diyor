@@ -7,7 +7,7 @@ Curious developer | Python & Coding enthusiast | High School Student
 ## 📫 Contact Me
 - Telegram: [@diyorsultanov](https://t.me/diyorsultanov)
 - Email: diyorbeksultanov.ss@gmail.com
-- LinkedIn: [linkedin.com/in/diyorbek-sultanov](https://linkedin.com/in/diyorbek-sultanov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B7)](https://linkedin.com/in/diyorbek-sultanov)
 - Discord - [https://discord.gg/PBmGmxBS](https://discord.gg/PBmGmxBS)
 - Linktree - [linktr.ee/mr.sultanov](linktr.ee/mr.sultanov)
 
