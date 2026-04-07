@@ -39,7 +39,7 @@ I like to build small tools and bots that solve real problems at school and lear
   *Instant message forwarding to channel.*  
   **Tech:** Python; (demo / repo)
 
-  - **Edu-Union**  
+- **Edu-Union**  
   *Knowledge for a brighter future.*
 
 ---
