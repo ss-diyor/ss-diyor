@@ -32,7 +32,7 @@ I like to build small tools and bots that solve real problems at school and lear
   **Tech:** Figma; HTML/CSS; (link/demo)
 
 - **Bustanllik SS Testing System**
-  *DTM exam testing and result providing*
+  *DTM exam testing and result providing.*
   **Tech:** Python;
 
 - **SS Anonymous**  
@@ -40,7 +40,7 @@ I like to build small tools and bots that solve real problems at school and lear
   **Tech:** Python; Telegram Bot API; (GitHub repo / demo)  
 
 - **Demo SS**  
-  *Instant message forwarding to channel.*  
+  *Instant message forwarding service.*  
   **Tech:** Python; (demo / repo)
 
 - **Edu-Union**  
