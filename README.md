@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-### Python developer · Bot builder · High school student from Uzbekistan
+### Python developer · Bot builder · High school graduate
 *I build small tools that solve real problems at school — and learn by shipping them.*
 
 [![Telegram](https://img.shields.io/badge/Telegram-@diyorsultanov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/diyorsultanov)
