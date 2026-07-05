@@ -23,7 +23,7 @@
 
 ## About me
 
-I'm a high school student and developer at **Bo'stonliq Specialized School (ITMA)** in Uzbekistan. My focus is on practical tools — Telegram bots, web platforms, and dashboards — that solve actual problems for students and teachers at my school.
+I'm a high school graduate. Class of '26. **Bustanlik Specialized School (ITMA)** My focus is on practical tools — Telegram bots, web platforms, and dashboards — that solve actual problems for students and teachers at my school.
 
 Most of what I know came from building and shipping. I've gone from writing my first bot to deploying multi-feature platforms with PostgreSQL, FastAPI, and CI/CD pipelines on Railway and Render.
 
@@ -44,7 +44,7 @@ The main project I maintain. Students take mock exams, submit answers, and wait 
 ---
 
 ### 📝 IELTS Mock Platform
-*Browser-based IELTS mock exam system for school students.*
+*Browser-based IELTS mock exam system for students and language learners.*
 
 Students authenticate with an OTP code, complete timed Listening/Reading/Writing tasks, and submit — all from a static HTML/JS frontend. Audio hosted on Cloudinary. Built and deployed solo from schema design to DNS config.
 
@@ -107,5 +107,5 @@ Tools        Git  ·  GitHub  ·  Cloudinary  ·  Brevo
 ---
 
 <div align="center">
-<sub>Built in Bo'stonliq, Toshkent viloyati 🇺🇿</sub>
+<sub>Diyorbek Sultanov</sub>
 </div>
