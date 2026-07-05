@@ -95,16 +95,6 @@ Tools        Git  ·  GitHub  ·  Cloudinary  ·  Brevo
 
 ---
 
-## Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ss-diyor&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss-diyor&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
 
 <div align="center">
 <sub>Diyorbek Sultanov</sub>
