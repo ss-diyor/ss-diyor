@@ -9,8 +9,8 @@
 ╚═════╝ ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-### Python developer · Bot builder · High school graduate
-*I build small tools that solve real problems at school — and learn by shipping them.*
+### Python developer · Bot builder · University student
+*I build small tools and learn by shipping them.*
 
 [![Telegram](https://img.shields.io/badge/Telegram-@diyorsultanov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/diyorsultanov)
 [![Email](https://img.shields.io/badge/Email-diyorbeksultanov.ss@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:diyorbeksultanov.ss@gmail.com)
@@ -23,11 +23,11 @@
 
 ## About me
 
-I'm a high school graduate. Class of '26. **Bustanlik Specialized School (ITMA)** My focus is on practical tools — Telegram bots, web platforms, and dashboards — that solve actual problems for students and teachers at my school.
+Currently, I am a university student (freshman), Class of '30. I graduated **Bustanlik District Specialized School (ITMA)** My focus is on practical tools — Telegram bots, web platforms, and dashboards — that solve actual problems for students and teachers at my school.
 
 Most of what I know came from building and shipping. I've gone from writing my first bot to deploying multi-feature platforms with PostgreSQL, FastAPI, and CI/CD pipelines on Railway and Render.
 
-Currently maintaining **[sultanov.space](https://blog.sultanov.space)** — a personal portfolio and home to several subdomains powering school tools.
+Currently maintaining **[sultanov.space](https://sultanov.space)** — a personal portfolio and home to several subdomains powering school tools.
 
 ---
 
