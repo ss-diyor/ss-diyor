@@ -23,7 +23,7 @@
 
 ## About me
 
-Currently, I am a university student (freshman), Class of '30. I graduated **Bustanlik District Specialized School (ITMA)** My focus is on practical tools — Telegram bots, web platforms, and dashboards — that solve actual problems for students and teachers at my school.
+Currently, I am an university student (freshman), Class of '30. I graduated **Bustanlik District Specialized School (ITMA)** My focus is on practical tools — Telegram bots, web platforms, and dashboards — that solve actual problems for students and teachers at my school.
 
 Most of what I know came from building and shipping. I've gone from writing my first bot to deploying multi-feature platforms with PostgreSQL, FastAPI, and CI/CD pipelines on Railway and Render.
 
