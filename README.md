@@ -29,38 +29,6 @@ Most of what I know came from building and shipping. I've gone from writing my f
 
 Currently maintaining **[diyorsultanov.uz](https://diyorsultanov.uz)** — a personal website with small tools and news about my recent activities.
 
----
-
-## Projects
-
-### 🤖 Bustanlik SS Testing System
-*DTM exam results management platform with Telegram bot frontend.*
-
-The main project I maintain. Students take mock exams, submit answers, and wait — admins release results manually via bot. Features include certificate generation, Excel import/export, rankings, email broadcasts, Discord notifications, AI analytics, and a full `/yonalishlar` command covering 227 university directions.
-
-**Stack:** Python · aiogram 3 · FastAPI · PostgreSQL (Supabase) · Railway
-[![sultanov.space](https://img.shields.io/badge/Live-mock.sultanov.space-1a56e8?style=flat-square)](https://mock.sultanov.space)
-
----
-
-### 📝 IELTS Mock Platform
-*Browser-based IELTS mock exam system for students and language learners.*
-
-Students authenticate with an OTP code, complete timed Listening/Reading/Writing tasks, and submit — all from a static HTML/JS frontend. Audio hosted on Cloudinary. Built and deployed solo from schema design to DNS config.
-
-**Stack:** Python · FastAPI · Supabase · HTML/JS · Render
-[![sultanov.space](https://img.shields.io/badge/Live-ielts.sultanov.space-1a56e8?style=flat-square)](https://ielts.sultanov.space)
-
----
-
-### 👤 SS Anonymous
-*Anonymous feedback bot for school — students send messages, admins reply.*
-
-Multi-admin support, reply threading, Railway deployment. Built with aiogram 3.x FSM pattern.
-
-**Stack:** Python · aiogram 3 · Telegram Bot API · Railway
-[![GitHub](https://img.shields.io/badge/GitHub-ssanonymous--bot-181717?style=flat-square&logo=github)](https://github.com/ss-diyor)
-
 
 ---
 
