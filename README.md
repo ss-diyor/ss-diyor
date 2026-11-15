@@ -27,7 +27,7 @@ Currently, I am an university student (freshman), Class of '30. I graduated **Bu
 
 Most of what I know came from building and shipping. I've gone from writing my first bot to deploying multi-feature platforms with PostgreSQL, FastAPI, and CI/CD pipelines on Railway and Render.
 
-Currently maintaining **[sultanov.space](https://sultanov.space)** — a personal portfolio and home to several subdomains powering school tools.
+Currently maintaining **[diyorsultanov.uz](https://diyorsultanov.uz)** — a personal website with small tools and my recent activities.
 
 ---
 
