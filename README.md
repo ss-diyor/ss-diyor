@@ -61,15 +61,6 @@ Multi-admin support, reply threading, Railway deployment. Built with aiogram 3.x
 **Stack:** Python · aiogram 3 · Telegram Bot API · Railway
 [![GitHub](https://img.shields.io/badge/GitHub-ssanonymous--bot-181717?style=flat-square&logo=github)](https://github.com/ss-diyor)
 
----
-
-### 🌐 Personal Portfolio
-*Hash-based client-side routed portfolio site.*
-
-Multi-page portfolio at sultanov.space built with vanilla HTML/CSS/JS and deployed via Netlify.
-
-**Stack:** HTML · CSS · JavaScript · Netlify
-[![sultanov.space](https://img.shields.io/badge/Live-blog.sultanov.space-1a56e8?style=flat-square)](https://sultanov.space)
 
 ---
 
